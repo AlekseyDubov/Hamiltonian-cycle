@@ -1,0 +1,9 @@
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\bin\Debug\Гамильтонов цикл.exe.config
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\bin\Debug\Гамильтонов цикл.exe
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\bin\Debug\Гамильтонов цикл.pdb
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\obj\Debug\Гамильтонов цикл.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\obj\Debug\Гамильтонов_цикл.Form1.resources
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\obj\Debug\Гамильтонов_цикл.Properties.Resources.resources
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\obj\Debug\Гамильтонов цикл.csproj.GenerateResource.Cache
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\obj\Debug\Гамильтонов цикл.exe
+C:\Users\Олег\Desktop\Гамильтонов цикл\Гамильтонов цикл\obj\Debug\Гамильтонов цикл.pdb
